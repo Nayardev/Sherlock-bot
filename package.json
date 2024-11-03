@@ -1,0 +1,15 @@
+{
+  "name": "sherlock-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with sherlock capabilities",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "puppeteer": "^10.0.0",
+    "node-fetch": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
